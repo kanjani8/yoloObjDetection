@@ -1,4 +1,5 @@
 Object Detection with YOLOv3 on Google Colab
+
 Project Overview
 This project is a simple task focused on implementing and understanding object detection using YOLOv3 (You Only Look Once version 3) within the Google Colab environment. YOLOv3 is a powerful deep learning algorithm known for its speed and accuracy in detecting objects in images or video streams in real-time. By leveraging Google Colab's free GPU resources, this project aims to provide a hands-on experience with one of the cutting-edge technologies in computer vision.
 
