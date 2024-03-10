@@ -1,7 +1,7 @@
 #to set cfg file 
 
 # Path to cfg file
-cfg_file_path = './darknet/cfg/yolov4-tiny-custom.cfg' 
+cfg_file_path = 'cfg/yolov4-tiny-custom.cfg' 
 
 # Elements you find and the new value
 elements_to_update = {

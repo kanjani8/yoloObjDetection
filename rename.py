@@ -1,9 +1,9 @@
 # For rename the png& txt annotation file
-
+# the path should be change
 import os
 
 # Define the path to the folder containing the files
-folder_path = 'C://Users/Minji/Desktop/sampleHumanData/done'  # Example folder path
+folder_path = 'C://Users/Minji/humanDetection/darknet/data/humanData'  # Example folder path
 
 # Check if the folder exists
 if not os.path.exists(folder_path):
